@@ -1,2 +1,2 @@
-# holygrail_Redis
- set up a Redis database using Docker and then update your Express endpoints to connect to the Redis database. 
+# react-holygrail
+React Holy Grail - State of each column shared with the rest
